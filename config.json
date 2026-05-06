@@ -1,23 +1,18 @@
 {
-  "Author": "SHAHADAT SAHU",
-  "version": "2.0.0",
-  "language": "en",
-  "DeveloperMode": false,
-  "autoCreateDB": true,
-  "autoClean": true,
-  "allowInbox": false,
-  "notiGroup": true,
-  "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
-  "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "botName": "ʙʀɪsᴛʏ 💋",
   "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  
+  "ownerName": "ᴛᴀɴᴠɪʀ 😈",
+  "UPTIME": "24/7",
+  "menuConfig": {
+    "romanticMode": true,
+    "style": "bold"
+  }
+}
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
+    "122098204173305182",
+    "61586663640809"
     "100044713412032"
   ],
   "NDH": ["100044713412032"],
@@ -137,4 +132,3 @@
     "log": { "enable": true },
     "god": { "enable": true }
   }
-}
